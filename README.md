@@ -7,7 +7,7 @@ Projenin front-end kısmı React.js kütüphanesi ile yazılmış olup React Boo
 
 Projenin server kısmı Node.js ile yazılmıştır.
 
-Proje yapılırken kaynak olarak Youtube videoları ve dokümantosyonlar kullanılmıştır.
+Proje yapılırken kaynak olarak Youtube videoları ve dokümantasyonlar kullanılmıştır.
 
 Proje içerisinde kullanıcı kayıt olablir, giriş yapabilir, tarif oluşturarak paylaşabilir, diğer kullanıcıların paylaşımlarını 
 görebilir ve diğer kullanıcılarla mesajlaşabilir.
